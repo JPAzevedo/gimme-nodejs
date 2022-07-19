@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "pg": "^7.9.0",
-    "properties-reader": "0.0.16",
+    "properties-reader": "2.2.0",
     "request": "^2.88.0",
     "sharp": "^0.22.1"
   }
